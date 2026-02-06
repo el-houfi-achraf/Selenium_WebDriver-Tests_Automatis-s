@@ -1,4 +1,4 @@
-# 📋 TP Selenium WebDriver - Tests Automatisés
+# Selenium WebDriver - Tests Automatisés
 
 ## 📌 Informations du Projet
 
